@@ -18,13 +18,13 @@
 
 
 <div align="left">
-  <img src="https://iconos8.es/icon/40670/c-programaci%C3%B3n" height="40" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://es.vexels.com/png-svg/vista-previa/166401/icono-del-lenguaje-de-programacion-java" height="40" alt="java logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://es.vexels.com/png-svg/vista-previa/166383/icono-de-lenguaje-de-programacion-html" height="40" alt="html logo"  />
+  <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icono-de-lenguaje-de-programacion-html.png" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://www.linkedin.com/pulse/importance-mysql-database-advantages-disadvantages-influence-bk-xhfce" height="40" alt="mysql logo"  />
+  <img src="https://cdn.discuss.boardinfinity.com/original/2X/8/80b06b1b78e1a10fc6f3732ec1fa037d3f8ea787.png" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
